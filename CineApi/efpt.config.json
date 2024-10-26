@@ -1,0 +1,146 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "CineContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CineApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Actores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Actores_premios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Barrios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Butacas_funciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Comprobantes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Det_Comprobante]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Directores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Directores_premios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Formas_Pago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Formas_Venta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Funciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Localidades]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Peliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Peliculas_actores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Peliculas_premios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Premios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Promociones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Promociones_sucursales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provincias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sucursales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tickets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tipos_salas]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
