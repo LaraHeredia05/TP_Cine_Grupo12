@@ -4,4 +4,4 @@ Integrantes:
 - 412415: Laguna, Daniela
 - 412424: Ludueña, Narella
 - 412381: Blanco, Maria Candelaria
-- 412181: Herdia, Lara
+- 412181: Heredia, Lara
